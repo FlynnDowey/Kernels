@@ -11,5 +11,5 @@ Experimenting with convolution and kernels
 ## Running the code:
 Enter the following command into you console 
 ```bash
-python3 main.py -i <path to images> .
+python3 main.py -i <path to images> 
 ```
